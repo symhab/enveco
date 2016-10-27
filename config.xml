@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.testing.enveco"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Enveco</name> 
+
+  <description>
+      This app is created to show how to use the config.xml
+  </description>
+
+  <author href="https://build.phonegap.com" email="support@phonegap.com">
+      Hardeep Shoker
+  </author>
+
+</widget>
