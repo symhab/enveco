@@ -19,7 +19,7 @@
 
     <icon src="244.png" />
 	<gap:plugin name="cordova-plugin-whitelist" source="npm" version="~1"/>
-	<allow-intent href="http://*/*"?>
+	<allow-intent href="http://*/*"/>
 	<allow-intent href="https://*/*"/>
   
 </widget>
